@@ -27,3 +27,4 @@ npm run dev
 ```sh
 npm run build
 ```
+<img src="https://i.stack.imgur.com/Lx60z.png" alt="Furry white cat sitting on a wall">
